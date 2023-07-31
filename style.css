@@ -1,0 +1,68 @@
+#img-perfil{
+    width: 150px;
+}
+
+#img-stack{
+    width: 200px;
+}
+
+.bg-primary{
+    background-color: #fd9843!important;
+}
+
+.nav-link{
+    color: #653208!important;
+}
+
+.text-bg-primary {
+    background-color: #fd9843!important;
+}
+
+.titulo-proyecto{
+    text-shadow: 2px 5px 30px #000000;
+}
+
+
+
+.carousel-item{
+    height: 400px;
+}
+
+.carousel-indicators [data-bs-target] {
+    background-color: #fd9843;
+    height: 5px;
+}
+
+.carousel-caption{
+    color:black;
+}
+
+.icono{
+    width: 50px;
+  
+}
+
+.icono {
+    font-size: 2rem;
+    color: white;
+    margin: 20px;
+}
+.nav-link
+
+
+.modal{
+    color:#653208
+}
+
+.form-control{
+    border: var(--bs-border-width) solid #ffaa41;
+}
+
+.btn-primary{
+background-color: #fd9843;
+border-color: #fd9843;
+
+}
+.btn-hover-bg{
+    background-color: #fd9843;
+}
